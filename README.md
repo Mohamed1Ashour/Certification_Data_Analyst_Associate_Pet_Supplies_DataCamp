@@ -5,4 +5,4 @@ This is my case study to obtain my certification as a data analyst associate fro
 This is the Track link: https: https://app.datacamp.com/learn/career-tracks/data-analyst-with-python
 
 
-this my certification: https://www.datacamp.com/certificate/DAA0019734884686
+This is my certification: https://www.datacamp.com/certificate/DAA0019734884686
